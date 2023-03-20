@@ -1,0 +1,19 @@
+D:\Kiet-5th-Fall-Semester\OS-THEORY\My-Material\Project\Project\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\bin\Debug\OS Project Scheduling Algorithms.exe.config
+D:\Kiet-5th-Fall-Semester\OS-THEORY\My-Material\Project\Project\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\bin\Debug\OS Project Scheduling Algorithms.exe
+D:\Kiet-5th-Fall-Semester\OS-THEORY\My-Material\Project\Project\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\bin\Debug\OS Project Scheduling Algorithms.pdb
+D:\Kiet-5th-Fall-Semester\OS-THEORY\My-Material\Project\Project\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\obj\Debug\OS Project Scheduling Algorithms.csprojAssemblyReference.cache
+D:\Kiet-5th-Fall-Semester\OS-THEORY\My-Material\Project\Project\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\obj\Debug\OS_Project_Scheduling_Algorithms.Form1.resources
+D:\Kiet-5th-Fall-Semester\OS-THEORY\My-Material\Project\Project\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\obj\Debug\OS_Project_Scheduling_Algorithms.Properties.Resources.resources
+D:\Kiet-5th-Fall-Semester\OS-THEORY\My-Material\Project\Project\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\obj\Debug\OS Project Scheduling Algorithms.csproj.GenerateResource.cache
+D:\Kiet-5th-Fall-Semester\OS-THEORY\My-Material\Project\Project\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\obj\Debug\OS Project Scheduling Algorithms.csproj.CoreCompileInputs.cache
+D:\Kiet-5th-Fall-Semester\OS-THEORY\My-Material\Project\Project\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\obj\Debug\OS Project Scheduling Algorithms.exe
+D:\Kiet-5th-Fall-Semester\OS-THEORY\My-Material\Project\Project\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\obj\Debug\OS Project Scheduling Algorithms.pdb
+E:\7th Semester\Operating System\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\bin\Debug\OS Project Scheduling Algorithms.exe.config
+E:\7th Semester\Operating System\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\obj\Debug\OS Project Scheduling Algorithms.exe
+E:\7th Semester\Operating System\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\obj\Debug\OS Project Scheduling Algorithms.pdb
+E:\7th Semester\Operating System\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\bin\Debug\OS Project Scheduling Algorithms.exe
+E:\7th Semester\Operating System\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\bin\Debug\OS Project Scheduling Algorithms.pdb
+E:\7th Semester\Operating System\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\obj\Debug\OS Project Scheduling Algorithms.csprojResolveAssemblyReference.cache
+E:\7th Semester\Operating System\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\obj\Debug\OS_Project_Scheduling_Algorithms.Form1.resources
+E:\7th Semester\Operating System\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\obj\Debug\OS_Project_Scheduling_Algorithms.Properties.Resources.resources
+E:\7th Semester\Operating System\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\OS Project Scheduling Algorithms\obj\Debug\OS Project Scheduling Algorithms.csproj.GenerateResource.Cache
